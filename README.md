@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VNDPAL
 - 👀 I’m interested in full stack web Development.
-- 🌱 I’m currently learning Azure.
+- 🌱 I’m currently learning System Design.
 - 💞️ I’m looking to collaborate on basically anything.
 - 📫 How to reach me - request me any challeging code, and I'll there.
 
