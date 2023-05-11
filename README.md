@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack web Development.
 - 🌱 I’m currently learning System Design.
 - 💞️ I’m looking to collaborate on basically anything.
-- You can find me on [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/palvnd)
+- You can find me on [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/palvnd.svg?style=social&label=Follow%20%40palvnd)](https://twitter.com/palvnd)
 
 
 <!---
