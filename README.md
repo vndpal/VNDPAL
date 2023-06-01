@@ -1,5 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Vinod Pal!
 
+---
 
 👨‍💻 Full Stack Engineer | .NET Core | MERN/MEAN Stack | SQL Server | Azure 🔥
 
@@ -25,7 +26,9 @@
 
 💬 Let's connect and collaborate on exciting projects! Hit me up on GitHub to explore endless possibilities! 🤝
 
-📩 Email: vinod.pal.04.09@gmail.com
+📩 Email: vinod.pal.04.09@gmail.com  
+
+![Twitter Follow](https://img.shields.io/twitter/follow/palvnd?style=social)
 
 ---
 
