@@ -2,7 +2,7 @@
 
 ---
 
-👨‍💻 Full Stack Engineer | .NET Core | MERN/MEAN Stack | SQL Server | Azure 🔥
+👨‍💻 Full Stack Engineer | NodeJs | .NET | MERN/MEAN Stack | SQL Server | Azure 🔥
 
 🔧 Mastering the art of Full Stack Development with expertise in .NET Core, MERN, and MEAN stacks 🚀
 
