@@ -2,17 +2,7 @@
 
 ---
 
-👨‍💻 Full Stack Engineer | NodeJs | .NET | MERN/MEAN Stack | SQL Server | Azure 🔥
-
-🔧 Mastering the art of Full Stack Development with expertise in .NET Core, MERN, and MEAN stacks 🚀
-
-💼 Building robust and scalable applications that empower businesses to thrive 💪
-
-💾 Harnessing the power of SQL Server to optimize database management and performance ✨
-
-☁️ Leveraging the cloud capabilities of Azure to deliver scalable and secure solutions 🌤️
-
-💬 Let's connect and collaborate on exciting projects! Hit me up on GitHub to explore endless possibilities! 🤝
+👨‍💻 Full Stack Engineer | NodeJs | .NET | MERN/MEAN | SQL Server | NOSql | Azure 🔥
 
 📩 Email: vinod.pal.04.09@gmail.com
 
