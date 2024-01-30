@@ -20,6 +20,8 @@ Read my technical articles here:  ![My Articles](https://img.shields.io/badge/Me
 
 [![https://twitter.com/palvnd](https://img.shields.io/twitter/follow/palvnd?style=social)](https://twitter.com/palvnd)
 
+<a href="https://twitter.com/palvnd" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/palvnd?style=social"></a>
+
 ---
 
 🧰 Teck Stacks and Tools
