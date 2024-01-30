@@ -18,7 +18,7 @@
 
 Read my technical articles here:  ![My Articles](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/palvnd?style=social)
+[![https://twitter.com/palvnd](https://img.shields.io/twitter/follow/palvnd?style=social)](https://twitter.com/palvnd)
 
 ---
 
