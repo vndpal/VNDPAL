@@ -14,13 +14,10 @@
 
 💬 Let's connect and collaborate on exciting projects! Hit me up on GitHub to explore endless possibilities! 🤝
 
-📩 Email: vinod.pal.04.09@gmail.com  
+📩 Email: vinod.pal.04.09@gmail.com
 
-Read my technical articles here:  ![My Articles](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-
-[![https://twitter.com/palvnd](https://img.shields.io/twitter/follow/palvnd?style=social)](https://twitter.com/palvnd)
-
-<a href="https://twitter.com/palvnd" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/palvnd?style=social"></a>
+[![](https://img.shields.io/twitter/follow/palvnd?style=social)](https://twitter.com/palvnd) <br>
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vndpal)
 
 ---
 
