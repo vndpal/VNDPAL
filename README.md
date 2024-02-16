@@ -4,8 +4,6 @@
 
 👨‍💻 Full Stack Engineer | NodeJs | .NET | MERN/MEAN | SQL Server | NOSql | Azure 🔥
 
-📩 Email: vinod.pal.04.09@gmail.com
-
 [![](https://img.shields.io/twitter/follow/palvnd?style=social)](https://twitter.com/palvnd) <br>
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vndpal)
 
